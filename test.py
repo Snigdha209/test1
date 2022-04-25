@@ -1,3 +1,3 @@
-print("SNIGDHA SHRIVASTAVA")
-print("E19CSE352")
+print("PUSHPI KARN")
+print("E19CSE288")
 print("EB14")
